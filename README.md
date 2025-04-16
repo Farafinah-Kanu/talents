@@ -17,7 +17,7 @@ Une application NextJS qui implémente :
 - Galerie d'images utilisant l'API Unsplash
 - Système de likes avec persistance d'état côté client
 
-[Voir l'évaluation frontend](./evaluations/frontend-gallery)
+[Voir l'évaluation frontend](./evaluations/frontend-gallery.md)
 
 ### 2. Évaluation Backend : API de Gestion d'Utilisateurs
 
@@ -27,7 +27,7 @@ Une API Node.js (TypeScript, Express/Fastify) qui implémente :
 - Système d'authentification JWT
 - Gestion des profils selon les rôles utilisateurs
 
-[Voir l'évaluation backend](./evaluations/backend-users)
+[Voir l'évaluation backend](./evaluations/backend-users.md)
 
 ## Structure du Dépôt
 
