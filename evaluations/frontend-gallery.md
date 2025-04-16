@@ -8,7 +8,7 @@ Cette étude de cas consiste à développer une application web complète permet
 
 ### 1. Système d'Authentification
 
-![Maquette d'interface d'authentification](https://cdn.dribbble.com/users/2173663/screenshots/16703354/media/795b1cd35e31c7413dd88eaf66e80a08.jpg?compress=1&resize=1600x1200&vertical=top)
+![Maquette d'interface d'authentification](../assets/login.webp)
 
 **Objectif:** Reproduire fidèlement l'interface d'authentification présentée ci-dessus.
 
@@ -22,7 +22,7 @@ Cette étude de cas consiste à développer une application web complète permet
 
 ### 2. Galerie d'Images
 
-![Interface de la galerie d'images](../assets/photos-app-01.png)
+![Interface de la galerie d'images](../assets/gallery.png)
 
 **Objectif:** Développer une interface de visualisation d'images utilisant l'API Unsplash.
 
