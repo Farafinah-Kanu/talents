@@ -7,7 +7,7 @@ L'application doit permettre de s'authentifier, d'accéder au feed utilisateur, 
 
 ## Fonctionnalités Requises
 
-### 1. Système d'Authentification
+### 1. Authentification
 
 ![Maquette interface authentification](../assets/login-instagram.jpg)
 
